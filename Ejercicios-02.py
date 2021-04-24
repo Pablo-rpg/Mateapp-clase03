@@ -9,3 +9,5 @@ print(a,"hola",b,"=",c)
 
 
 print(str(a)+"hola"+str(b)+"="+str(c))
+r =5==3
+print(r)
